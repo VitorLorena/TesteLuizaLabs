@@ -4,11 +4,11 @@ public class usuarioLogin {
 	
 	private long id;
 	
-	private String usuario = "magalu";
+	private String usuario;
 	
-	private String senha = "m@galu123";
+	private String senha;
 	
-	private String token = "Basic dml0b3JAZW1haWwuY29tOjEyMzQ=";
+	private String token;
 
 	public long getId() {
 		return id;
